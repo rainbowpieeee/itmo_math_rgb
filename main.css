@@ -1,0 +1,28 @@
+
+
+h1 {
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	text-align: center;
+	font-size: 32px;
+	margin-top: 35px;
+}
+
+button {
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	display: block;
+	margin: 0 auto;
+	margin-top: 30px;
+	padding: 15px 25px;
+	font-size: 24px;
+	border-radius: 20px;
+	background-color: #10bd13;
+	color: rgb(255, 255, 255);
+	cursor: pointer;
+	border: none;
+	transition: background-color 0.3s ease;
+}
+
+button:hover {
+	background-color: #058a07;
+	color:rgba(255, 255, 255, 0.82)
+}
